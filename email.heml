@@ -1,0 +1,31 @@
+<heml>
+  <head>
+    <subject>🇵🇹</subject>
+    <style>
+      body { background: white; text-align: center; font-size: 20px; line-height: 28px; }
+      h1 { color: #f2bc72; }
+      h2 { color: #375ba6; }
+      p { color: #434343; }
+    </style>
+  </head>
+  <body>
+    <container>
+    <img src="https://trustyou.com/downloads/emails/portugal/header.png" alt="Viva La Portugal" infer />
+    <h1>When?</h1>
+    <p>May 9-13, 2022</p>
+    <h1>This event will happen in...</h1>
+    <h2>ALTURA, PORTUGAL</h2>
+    <p>The entire team will stay together at the magnificent <a href="https://www.praiaverderesort.co" target="_blank">Praia Verde Boutique Hotel</a>!</p>
+    <a href="https://www.youtube.com/watch?v=HohABVa6K8k" target="_blank"><img src="https://trustyou.com/downloads/emails/portugal/video.png" alt="TrustYou Event in Portugal!" infer /></a>
+    <h1>What Can You Expect?</h1>
+    <p>Just 5-minute walk to Praia Verde Beach<br />
+Delicious meals from the hotel’s own <a href="https://www.praiaverderesort.com/en/a-terra" target="_blank">A Terra Restaurant</a><br />
+An on-site pool and pool bar</p>
+    <h1>And the best part is?</h1>
+    <p>The ENTIRE hotel is ours for the week. So there will be plenty of opportunities for team bonding.</p>
+    <p>More information will be sent soon on how to book travel arrangements. For now, <span style="color: #f2bc72;">continue to save May 9-13th</span> on your calendar, and get excited for this amazing opportunity to adventure together once again!</p>
+    <img src="https://trustyou.com/downloads/emails/portugal/bubbles.png" alt="🇵" infer style="margin: 0 auto;max-width: 80px"/>
+
+    </container>
+  </body>
+</heml>
